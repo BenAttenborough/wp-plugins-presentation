@@ -1337,6 +1337,10 @@ html:-moz-full-screen-ancestor {
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
 
+.emphasize {
+  color: red;
+}
+
 html.img-contain div.slide-background.present {
   /*background-position: left;background-size: cover;*/
   background-size: contain;
